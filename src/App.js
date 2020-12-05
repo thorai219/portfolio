@@ -1,7 +1,9 @@
+import AboutUs from "./pages/AboutUs";
+
 function App() {
   return (
     <div>
-      <h1>Hello</h1>
+      <AboutUs />
     </div>
   );
 }
